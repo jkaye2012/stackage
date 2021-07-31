@@ -4648,6 +4648,9 @@ packages:
     "Grzegorz Milka <grzegorzmilka@gmail.com> @gregorias":
         - trimdent
 
+    "Jordan Kaye <jordan.kaye2@gmail.com> @jkaye2012":
+        - polling-cache
+
     "xmonad <xmonad@haskell.org>":
         - X11
         - xmonad
